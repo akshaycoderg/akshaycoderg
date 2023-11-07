@@ -5,19 +5,6 @@
 
 
 
-- ▪️👋Hi, I'm AKSHAY THAKUR (@akshaycoderg)
-
-- 🌱 I’m currently learning MERN stack Web Development & Python.
-
-- 👯 I’m looking to collaborate on Frontend Projects.
-
-- 🤔 I’m looking for help with Backend Development.
-
-- 💯My Current Skillset is : {HTML5, CSS3, BootStrap, ▪️Pyhton}.
-
-- 📫 Reach me out on: [https://linktr.ee/AkshayCoder]()
-
-- 🚀I'm AI/ML and Open source enthusiast.
 
 
 <h3 align="left">Connect with me:</h3>
