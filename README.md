@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Thakur</h1>
-<h3 align="center">A passionate fronted developer from India.</h3>
+<h3 align="center">A passionate fronted developer from India.</h3><hr>
 
 
 
