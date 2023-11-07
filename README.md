@@ -17,13 +17,9 @@
 
 - 💯My Current Skillset is : {HTML5, CSS3, BootStrap, ▪️Pyhton}.
 
-- 📫 How to reach me: [https://linktr.ee/AkshayCoder]()
+- 📫 Reach me out on: [https://linktr.ee/AkshayCoder]()
 
 - 🚀I'm AI/ML and Open source enthusiast.
-
-- 😄 Pronouns: He/Him
-
-- ⚡ Fun fact: I'm Funny Sometime.
 
 
 <h3 align="left">Connect with me:</h3>
