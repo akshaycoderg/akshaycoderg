@@ -5,10 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/akshaycoderx" target="blank"><img src="https://img.shields.io/twitter/follow/akshaycoderx?logo=twitter&style=for-the-badge" alt="akshaycoderx" /></a> </p>
 
-<!--
-**akshaycoderg/akshaycoderg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - ▪️👋Hi, I'm AKSHAY THAKUR (@akshaycoderg)
 
@@ -27,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: I'm Funny Sometime.
--->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
