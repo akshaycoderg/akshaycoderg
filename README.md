@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Thakur</h1>
 <h3 align="center">A passionate fronted developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaycoderg&label=Profile%20views&color=0e75b6&style=flat" alt="akshaycoderg" /> </p>
 
-<p align="left"> <a href="https://twitter.com/akshaycoderx" target="blank"><img src="https://img.shields.io/twitter/follow/akshaycoderx?logo=twitter&style=for-the-badge" alt="akshaycoderx" /></a> </p>
 
 
 
