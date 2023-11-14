@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Thakur</h1>
 <h3 align="center">A passionate fronted developer from India.</h3>
 
-- ▪️👋Hi, I'm AKSHAY THAKUR (@akshaycoderg)
+- 👋Hi, I'm AKSHAY THAKUR (@akshaycoderg)
 
 - 🌱 I’m currently learning MERN stack Web Development & Python.
 
